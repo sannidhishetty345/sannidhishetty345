@@ -42,9 +42,11 @@ Actively seeking internship opportunities to contribute to innovative AI-driven 
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" />
-
 <img src="https://streak-stats.demolab.com?user=sannidhishetty345&theme=tokyonight&hide_border=true" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sannidhishetty345&theme=tokyo-night&hide_border=true" />
 
 </div>
 
