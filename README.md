@@ -1,78 +1,67 @@
 <div align="center">
 
-# SANNIDHI SHETTY  
+# Sannidhi Shetty  
+### Data Science Undergraduate | AI & Machine Learning  
 
-### Data Science Undergraduate | AI • ML • Analytics  
-
-<img src="https://readme-typing-svg.herokuapp.com?color=00E6FF&center=true&vCenter=true&width=600&size=22&lines=Building+Intelligent+Systems;Machine+Learning+Explorer;Turning+Data+into+Decisions" />
-
-<br>
-
-<img src="https://komarev.com/ghpvc/?username=sannidhishetty345&label=Profile+Views&color=0A0A0A&style=for-the-badge" />
+Focused on building scalable, data-driven intelligent systems.
 
 </div>
 
 ---
 
-##  About  
+## Professional Summary
 
-Data Science student focused on designing scalable, intelligent, and data-driven solutions.  
-Strong interest in Machine Learning, predictive modeling, and analytics engineering.  
-Currently seeking opportunities to contribute to AI-focused projects and research.
+Detail-oriented Computer Science student specializing in Data Science.  
+Strong foundation in Machine Learning, data analytics, and predictive modeling.  
+Actively seeking internship opportunities in AI, ML, and analytics-driven domains.
 
 ---
 
-##  Core Competencies  
+## Core Skills
 
 - Machine Learning & Model Development  
-- Data Cleaning & Exploratory Analysis  
+- Data Cleaning & Exploratory Data Analysis  
 - SQL & Database Systems  
 - Python for Data Science  
 - Business Intelligence & Visualization  
-- Structured Problem Solving  
+- Problem Solving & Analytical Thinking  
 
 ---
 
-##  Technical Stack  
+## Technical Stack
 
-<div align="center">
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00E6FF)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00E6FF)
-![Power BI](https://img.shields.io/badge/PowerBI-0D1117?style=for-the-badge&logo=powerbi&logoColor=00E6FF)
-![Scikit Learn](https://img.shields.io/badge/Scikit_Learn-0D1117?style=for-the-badge&logo=scikit-learn&logoColor=00E6FF)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00E6FF)
-![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00E6FF)
-
-</div>
+Python • SQL • Power BI • Scikit-Learn • Git • GitHub  
 
 ---
 
-##  GitHub Activity  
+## Selected Projects
+
+**Netflix Data Analysis Dashboard**  
+Exploratory analysis and visualization of streaming platform trends.
+
+**AI Career Path Recommender**  
+Machine learning-based recommendation system for career guidance.
+
+**Retail Demand Forecasting Model**  
+Predictive modeling using historical sales data.
+
+**RAG-Based Intelligent Chatbot**  
+Context-aware chatbot leveraging retrieval-augmented generation.
+
+---
+
+## GitHub Activity
 
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=sannidhishetty345&theme=tokyonight&hide_border=true" />
 
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sannidhishetty345&theme=tokyo-night&hide_border=true" />
-
 </div>
-
----
-
-##  Highlighted Projects  
-
--  Netflix Data Analysis Dashboard  
--  AI Career Path Recommendation System  
--  Retail Demand Forecasting Model  
--  Retrieval-Augmented Generation Chatbot  
 
 ---
 
 <div align="center">
 
-###  Designing intelligence through data  
+Designing intelligence through data.
 
 </div>
