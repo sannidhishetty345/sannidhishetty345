@@ -19,7 +19,6 @@ Actively seeking internship opportunities to contribute to innovative AI-driven 
 
 ## 🧠 Core Expertise
 
-- Machine Learning & Model Development  
 - Data Analysis & Visualization  
 - SQL & Database Systems  
 - Python Programming  
@@ -43,7 +42,7 @@ Actively seeking internship opportunities to contribute to innovative AI-driven 
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=tokyonight&hide_border=true)
 
 ![Streak Stats](https://streak-stats.demolab.com/?user=sannidhishetty345&theme=tokyonight&hide_border=true)
 
