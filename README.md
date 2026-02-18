@@ -96,6 +96,8 @@
 <h2>📈 GitHub Contribution Overview</h2>
 
 <div align="center">
+	![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=default)
+
   <img src="https://github-readme-stats.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=tokyonight" />
   <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sannidhishetty345&theme=tokyonight" />
