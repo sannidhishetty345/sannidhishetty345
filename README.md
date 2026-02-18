@@ -1,83 +1,126 @@
+<!-- PROFILE HEADER -->
 <div align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png" 
+       alt="Data Analytics Banner" width="100%" />
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1E3A8A&height=180&section=header&text=Sannidhi%20Shetty&fontSize=38&fontColor=FFFFFF&animation=fadeIn" />
+  <h1>Hi, I'm Sannidhi Shetty 👋</h1>
+  <h3>📊 Data Analyst | Business Intelligence | SQL • Python • Power BI</h3>
 
-### Data Analyst | SQL • Python • Business Intelligence  
-
-Turning raw data into actionable insights.
-
+  <p><em>Turning data into insights that drive decisions</em></p>
 </div>
 
 ---
 
-## 📊 Professional Profile
+<!-- PROFILE IMAGE + SUMMARY -->
+<table align="center">
+<tr>
+<td width="35%" align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/profile.png" 
+       width="220" style="border-radius: 50%;" />
+</td>
 
-Detail-oriented Data Science undergraduate with strong expertise in data cleaning, SQL querying, dashboard creation, and exploratory data analysis.  
-Focused on delivering insights that support business decisions and performance optimization.
+<td width="65%">
+  <h3>🔍 About Me</h3>
+  <p>
+    I am a results-driven <b>Data Analyst</b> with hands-on experience in
+    <b>data cleaning, exploratory data analysis, SQL analytics, and dashboarding</b>.
+    I specialize in transforming raw data into actionable insights that support
+    business decision-making.
+  </p>
+</td>
+</tr>
+</table>
 
 ---
 
-## 📈 Analytical Skill Set
-
-- Data Cleaning & Transformation  
-- SQL Query Optimization  
-- Exploratory Data Analysis (EDA)  
-- Dashboard Development (Power BI)  
-- KPI Tracking & Reporting  
-- Predictive Analytics  
-
----
-
-## 🛠 Tools & Technologies
+<!-- SKILLS SECTION -->
+<h2 align="center">🧠 Analytics Skill Set</h2>
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=1E90FF)
-![SQL](https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=1E90FF)
-![Power BI](https://img.shields.io/badge/PowerBI-0D1117?style=for-the-badge&logo=powerbi&logoColor=1E90FF)
-![Excel](https://img.shields.io/badge/Excel-0D1117?style=for-the-badge&logo=microsoft-excel&logoColor=1E90FF)
-![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=1E90FF)
-
+  <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Python-Analytics-yellow?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Power%20BI-Dashboarding-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge" />
 </div>
 
 ---
 
-## 📂 Featured Analytical Projects
+<!-- TOOLS -->
+<h2 align="center">🛠️ Tools & Technologies</h2>
 
-### 🔹 Netflix EDA Dashboard  
-- Performed exploratory analysis on content trends  
-- Identified growth patterns across genres  
-- Designed interactive Power BI dashboard  
-
-### 🔹 Retail Demand Forecasting  
-- Cleaned and structured historical sales data  
-- Built predictive models for demand estimation  
-- Improved forecasting efficiency through feature engineering  
-
-### 🔹 Career Path Recommendation System  
-- Built ML-based classification model  
-- Improved recommendation accuracy through model tuning  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,excel" />
+</div>
 
 ---
 
-## 📊 GitHub Contribution Overview
+<!-- PROJECTS -->
+<h2 align="center">📊 Featured Analytics Projects</h2>
+
+<table align="center">
+<tr>
+<td width="50%">
+  <h3>🎬 Netflix Data Analysis</h3>
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/netflix_dashboard.png"
+       width="100%" />
+  <p>
+    • Performed EDA on Netflix content<br>
+    • Built interactive Power BI dashboard<br>
+    • Identified content & genre trends
+  </p>
+</td>
+
+<td width="50%">
+  <h3>📦 Retail Demand Forecasting</h3>
+  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/retail_dashboard.png"
+       width="100%" />
+  <p>
+    • Sales trend analysis<br>
+    • Forecasted demand patterns<br>
+    • Improved inventory insights
+  </p>
+</td>
+</tr>
+</table>
+
+---
+
+<!-- GITHUB STATS -->
+<h2 align="center">📈 GitHub Stats</h2>
 
 <div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+</div>
 
-<img src="https://streak-stats.demolab.com?user=sannidhishetty345&theme=tokyonight&hide_border=true" />
+---
 
-<br><br>
+<!-- LEARNING -->
+<h2 align="center">🎯 Currently Learning</h2>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sannidhishetty345&theme=tokyo-night&hide_border=true" />
+<ul>
+  <li>Advanced SQL (Window Functions, Optimization)</li>
+  <li>DAX for Power BI</li>
+  <li>Business-focused analytics case studies</li>
+</ul>
 
+---
+
+<!-- CONNECT -->
+<h2 align="center">📬 Connect With Me</h2>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/yourprofile">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
+  </a>
+  <a href="mailto:your_email@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
+  </a>
 </div>
 
 ---
 
 <div align="center">
-
-Data is valuable only when transformed into insight.
-
+  <h3>⭐ Data is valuable only when transformed into insight ⭐</h3>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1E3A8A,100:0D1117&height=80&section=footer"/>
