@@ -1,126 +1,133 @@
-<!-- PROFILE HEADER -->
+<!-- ================= HEADER ================= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/banner.png" 
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png"
        alt="Data Analytics Banner" width="100%" />
 
-  <h1>Hi, I'm Sannidhi Shetty 👋</h1>
-  <h3>📊 Data Analyst | Business Intelligence | SQL • Python • Power BI</h3>
-
-  <p><em>Turning data into insights that drive decisions</em></p>
+  <h1>Sannidhi Shetty</h1>
+  <h3>Data Analyst | SQL • Python • Business Intelligence</h3>
+  <p><em>Turning data into actionable business insights</em></p>
 </div>
 
----
+<hr/>
 
-<!-- PROFILE IMAGE + SUMMARY -->
-<table align="center">
+<!-- ================= ABOUT ME ================= -->
+<table>
 <tr>
-<td width="35%" align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/profile.png" 
-       width="220" style="border-radius: 50%;" />
+<td width="30%" align="center">
+  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/profile.png"
+       width="200" style="border-radius: 50%;" />
 </td>
 
-<td width="65%">
-  <h3>🔍 About Me</h3>
+<td width="70%">
+  <h2>👩‍💻 Professional Profile</h2>
   <p>
-    I am a results-driven <b>Data Analyst</b> with hands-on experience in
-    <b>data cleaning, exploratory data analysis, SQL analytics, and dashboarding</b>.
-    I specialize in transforming raw data into actionable insights that support
-    business decision-making.
+    Data Analyst with hands-on experience in <b>data cleaning, exploratory data analysis,
+    SQL querying, and dashboard development</b>. Skilled at analyzing large datasets,
+    identifying trends, and translating findings into clear insights for business
+    decision-making.
+  </p>
+  <p>
+    Strong foundation in <b>Python, SQL, Power BI, and Excel</b> with a focus on
+    performance tracking, reporting automation, and data-driven strategy.
   </p>
 </td>
 </tr>
 </table>
 
----
+<hr/>
 
-<!-- SKILLS SECTION -->
-<h2 align="center">🧠 Analytics Skill Set</h2>
+<!-- ================= SKILLS ================= -->
+<h2>🧠 Analytical Skill Set</h2>
+<ul>
+  <li>Data Cleaning & Transformation</li>
+  <li>Exploratory Data Analysis (EDA)</li>
+  <li>SQL Queries & Data Extraction</li>
+  <li>Dashboard Design & KPI Tracking</li>
+  <li>Business & Performance Analysis</li>
+  <li>Statistical Analysis</li>
+</ul>
 
-<div align="center">
-  <img src="https://img.shields.io/badge/SQL-Advanced-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Python-Analytics-yellow?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Power%20BI-Dashboarding-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Excel-Advanced-green?style=for-the-badge" />
-</div>
+<hr/>
 
----
+<!-- ================= TOOLS ================= -->
+<h2>🛠 Tools & Technologies</h2>
 
-<!-- TOOLS -->
-<h2 align="center">🛠️ Tools & Technologies</h2>
+<p>
+  <b>Languages:</b> SQL, Python<br/>
+  <b>Visualization:</b> Power BI, Excel (Advanced)<br/>
+  <b>Libraries:</b> Pandas, NumPy, Matplotlib, Seaborn<br/>
+  <b>Databases:</b> MySQL, PostgreSQL<br/>
+  <b>Version Control:</b> Git, GitHub
+</p>
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github,excel" />
-</div>
+<hr/>
 
----
+<!-- ================= PROJECTS ================= -->
+<h2>📊 Featured Analytical Projects</h2>
 
-<!-- PROJECTS -->
-<h2 align="center">📊 Featured Analytics Projects</h2>
+<h3>🎬 Netflix Data Analysis Dashboard</h3>
+<ul>
+  <li>Performed exploratory data analysis on Netflix content dataset</li>
+  <li>Identified genre distribution, release trends, and regional patterns</li>
+  <li>Built an interactive Power BI dashboard for insight visualization</li>
+</ul>
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/netflix_dashboard.png"
+     width="100%" />
 
-<table align="center">
-<tr>
-<td width="50%">
-  <h3>🎬 Netflix Data Analysis</h3>
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/netflix_dashboard.png"
-       width="100%" />
-  <p>
-    • Performed EDA on Netflix content<br>
-    • Built interactive Power BI dashboard<br>
-    • Identified content & genre trends
-  </p>
-</td>
+<hr/>
 
-<td width="50%">
-  <h3>📦 Retail Demand Forecasting</h3>
-  <img src="https://raw.githubusercontent.com/yourusername/yourrepo/main/retail_dashboard.png"
-       width="100%" />
-  <p>
-    • Sales trend analysis<br>
-    • Forecasted demand patterns<br>
-    • Improved inventory insights
-  </p>
-</td>
-</tr>
-</table>
+<h3>📦 Retail Demand Forecasting</h3>
+<ul>
+  <li>Cleaned and analyzed retail sales data to identify demand patterns</li>
+  <li>Built predictive insights to support inventory planning</li>
+  <li>Improved sales trend visibility through analytical reporting</li>
+</ul>
+<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/retail_dashboard.png"
+     width="100%" />
 
----
+<hr/>
 
-<!-- GITHUB STATS -->
-<h2 align="center">📈 GitHub Stats</h2>
+<h3>🎥 Movie Recommendation System</h3>
+<ul>
+  <li>Developed a content-based recommendation system using Python</li>
+  <li>Applied similarity techniques to improve recommendation accuracy</li>
+  <li>Demonstrated applied analytics and machine learning concepts</li>
+</ul>
+
+<hr/>
+
+<!-- ================= GITHUB STATS ================= -->
+<h2>📈 GitHub Contribution Overview</h2>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
-  <br><br>
+  <br/><br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
 </div>
 
----
+<hr/>
 
-<!-- LEARNING -->
-<h2 align="center">🎯 Currently Learning</h2>
-
+<!-- ================= LEARNING ================= -->
+<h2>🎯 Currently Focused On</h2>
 <ul>
-  <li>Advanced SQL (Window Functions, Optimization)</li>
-  <li>DAX for Power BI</li>
-  <li>Business-focused analytics case studies</li>
+  <li>Advanced SQL (CTEs, Window Functions)</li>
+  <li>DAX & advanced Power BI dashboards</li>
+  <li>Real-world business analytics case studies</li>
 </ul>
 
----
+<hr/>
 
-<!-- CONNECT -->
-<h2 align="center">📬 Connect With Me</h2>
+<!-- ================= CONTACT ================= -->
+<h2>📬 Connect With Me</h2>
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge" />
-  </a>
-  <a href="mailto:your_email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge" />
-  </a>
-</div>
+<p>
+  📧 Email: <b>your_email@gmail.com</b><br/>
+  💼 LinkedIn: <b>linkedin.com/in/yourprofile</b><br/>
+  💻 GitHub: <b>github.com/yourusername</b>
+</p>
 
----
+<hr/>
 
 <div align="center">
-  <h3>⭐ Data is valuable only when transformed into insight ⭐</h3>
+  <b>“Data is valuable only when transformed into insight.”</b>
 </div>
