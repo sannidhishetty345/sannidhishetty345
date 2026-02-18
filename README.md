@@ -115,13 +115,30 @@
 <hr/>
 
 <!-- ================= CONTACT ================= -->
-<h2>📬 Connect With Me</h2>
+<div class="connect-with-me">
+  <h2>📬 Connect With Me</h2>
 
-<p>
-  📧 Email: <b>sannidhishetty871@gmail.com</b><br/>
-  💼 LinkedIn: <b>linkedin.com/in/sannidhishetty2206</b><br/>
-  💻 GitHub: <b>github.com/sannidhishetty345</b>
-</p>
+  <p>
+    📧 Email:
+    <a href="mailto:sannidhishetty871@gmail.com">
+      sannidhishetty871@gmail.com
+    </a>
+  </p>
+
+  <p>
+    💼 LinkedIn:
+    <a href="https://www.linkedin.com/in/sannidhishetty2206" target="_blank" rel="noopener noreferrer">
+      linkedin.com/in/sannidhishetty2206
+    </a>
+  </p>
+
+  <p>
+    💻 GitHub:
+    <a href="https://github.com/sannidhishetty345" target="_blank" rel="noopener noreferrer">
+      github.com/sannidhishetty345
+    </a>
+  </p>
+</div>
 
 <hr/>
 
