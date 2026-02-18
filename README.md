@@ -93,15 +93,15 @@
 <hr/>
 
 <!-- ================= GITHUB STATS ================= -->
-<h2>📈 GitHub Contribution Overview</h2>
+## 📈 GitHub Activity
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sannidhishetty345&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sannidhishetty345&show_icons=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=sannidhishetty345)
 
 </div>
-
-<hr/>
 
 <!-- ================= LEARNING ================= -->
 <h2>🎯 Currently Focused On</h2>
