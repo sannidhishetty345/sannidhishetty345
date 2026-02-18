@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sannidhishetty345/sannidhishetty345/main/banner.png"
+  <img src="assets/banner.png"
        alt="Data Analytics Banner" width="100%" />
 
   <h1>Sannidhi Shetty</h1>
@@ -8,16 +8,15 @@
   <p><em>Turning data into actionable business insights</em></p>
 </div>
 
-<hr/>
-
 <!-- ================= ABOUT ME ================= -->
 <table>
+<!--
 <tr>
 <td width="30%" align="center">
   <img src="https://raw.githubusercontent.com/yourusername/sannidhishetty345/main/profile.png"
        width="200" style="border-radius: 50%;" />
 </td>
-
+-->
 <td width="70%">
   <h2>👩‍💻 Professional Profile</h2>
   <p>
