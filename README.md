@@ -108,14 +108,16 @@
 
 
 <!-- ================= GITHUB STATS ================= -->
-<h2>📈 GitHub Activity</h2>
+<h2 align="center">📈 GitHub Activity</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=tokyonight" />
+<div align="center">
+  <img height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=tokyonight" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sannidhishetty345&theme=tokyonight&hide_border=true" />
-</p>
+  <img height="170"
+    src="https://streak-stats.demolab.com?user=sannidhishetty345&theme=tokyonight&hide_border=true" />
+</div>
 
 <!-- ================= LEARNING ================= -->
 <h2>🎯 Currently Focused On</h2>
