@@ -98,7 +98,7 @@
 <div align="center">
 
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=tokyonight"
+    src="https://github-readme-stats.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=tokyonight&hide_border=true"
     alt="GitHub stats"
     width="48%"
   />
