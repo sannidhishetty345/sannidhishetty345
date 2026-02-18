@@ -19,7 +19,7 @@
 -->
 <td width="70%">
   <h2>👩‍💻 Professional Profile</h2>
-  <p>
+  <p align=="center" width="80%">
     Data Analyst with hands-on experience in <b>data cleaning, exploratory data analysis,
     SQL querying, and dashboard development</b>. Skilled at analyzing large datasets,
     identifying trends, and translating findings into clear insights for business
@@ -48,14 +48,37 @@
 <hr/>
 
 <!-- ================= TOOLS ================= -->
-<h2>🛠 Tools & Technologies</h2>
+<h2 align="center">🛠 Tools & Technologies</h2>
 
+<h3>💻 Languages</h3>
 <p>
-  <b>Languages:</b> SQL, Python<br/>
-  <b>Visualization:</b> Power BI, Excel (Advanced)<br/>
-  <b>Libraries:</b> Pandas, NumPy, Matplotlib, Seaborn<br/>
-  <b>Databases:</b> MySQL<br/>
-  <b>Version Control:</b> Git, GitHub
+  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+</p>
+
+<h3>📊 Visualization</h3>
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white" />
+</p>
+
+<h3>📚 Libraries</h3>
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Seaborn-4C8CBF?style=for-the-badge" />
+</p>
+
+<h3>🗄 Database</h3>
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+</p>
+
+<h3>🔧 Version Control</h3>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
 
 <hr/>
@@ -83,14 +106,6 @@
 
 <hr/>
 
-<h3>🎥 Movie Recommendation System</h3>
-<ul>
-  <li>Developed a content-based recommendation system using Python</li>
-  <li>Applied similarity techniques to improve recommendation accuracy</li>
-  <li>Demonstrated applied analytics and machine learning concepts</li>
-</ul>
-
-<hr/>
 
 <!-- ================= GITHUB STATS ================= -->
 <h2>📈 GitHub Activity</h2>
@@ -106,6 +121,18 @@
   <li>DAX & advanced Power BI dashboards</li>
   <li>Real-world business analytics case studies</li>
 </ul>
+
+<hr/>
+<!-- ================= LEARNING ================= -->
+<h2 align="center">🎯 Currently Focused On</h2>
+
+<div align="center">
+
+🔹 Advanced SQL (CTEs, Window Functions)  
+🔹 DAX & advanced Power BI dashboards  
+🔹 Real-world business analytics case studies  
+
+</div>
 
 <hr/>
 
