@@ -93,12 +93,20 @@
 <hr/>
 
 <!-- ================= GITHUB STATS ================= -->
+<h2>📈 GitHub Activity</h2>
+
 <div align="center">
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://streak-stats.demolab.com?user=sannidhishetty345&theme=tokyonight)
-
-
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=sannidhishetty345&show_icons=true"
+    alt="GitHub Stats"
+  />
+  <br/><br/>
+  <img
+    src="https://streak-stats.demolab.com?user=sannidhishetty345"
+    alt="GitHub Streak"
+  />
 </div>
+<hr/>
 <!-- ================= LEARNING ================= -->
 <h2>🎯 Currently Focused On</h2>
 <ul>
