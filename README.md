@@ -96,12 +96,20 @@
 <h2>📈 GitHub Contribution Overview</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=tokyonight" />
-  <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sannidhishetty345&theme=tokyonight" />
-</div>
 
-<hr/>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=tokyonight"
+    alt="GitHub stats"
+    width="48%"
+  />
+
+  <img 
+    src="https://streak-stats.demolab.com?user=sannidhishetty345&theme=tokyonight"
+    alt="GitHub streak"
+    width="48%"
+  />
+
+</div>
 
 <!-- ================= LEARNING ================= -->
 <h2>🎯 Currently Focused On</h2>
