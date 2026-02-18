@@ -84,14 +84,13 @@
 <hr/>
 
 <!-- ================= PROJECTS ================= -->
-<h2>📊 Featured Analytical Projects</h2>
+<h2 align="center">📊 Featured Analytical Projects</h2>
 
 <h3>🎬 Netflix Data Analysis Dashboard</h3>
 <ul>
   <li>Performed exploratory data analysis on Netflix content dataset</li>
 </ul>
-<img src="https://raw.githubusercontent.com/sannidhishetty871/sannidhishetty871/main/netflix_dashboard.png"
-     width="100%" />
+
 
 <hr/>
 
@@ -101,8 +100,6 @@
   <li>Built predictive insights to support inventory planning</li>
   <li>Improved sales trend visibility through analytical reporting</li>
 </ul>
-<img src="https://raw.githubusercontent.com/sannidhishetty345/sannidhishetty345/main/retail_dashboard.png"
-     width="100%" />
 
 <hr/>
 
