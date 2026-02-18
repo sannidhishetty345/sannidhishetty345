@@ -110,7 +110,9 @@
 <!-- ================= GITHUB STATS ================= -->
 <h2>📈 GitHub Activity</h2>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
+</p>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sannidhishetty345&theme=tokyonight)
 
