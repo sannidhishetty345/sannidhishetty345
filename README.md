@@ -1,6 +1,6 @@
 <!-- ================= HEADER ================= -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/banner.png"
+  <img src="https://raw.githubusercontent.com/sannidhishetty345/sannidhishetty345/main/banner.png"
        alt="Data Analytics Banner" width="100%" />
 
   <h1>Sannidhi Shetty</h1>
@@ -14,7 +14,7 @@
 <table>
 <tr>
 <td width="30%" align="center">
-  <img src="https://raw.githubusercontent.com/yourusername/yourusername/main/profile.png"
+  <img src="https://raw.githubusercontent.com/yourusername/sannidhishetty345/main/profile.png"
        width="200" style="border-radius: 50%;" />
 </td>
 
@@ -43,7 +43,6 @@
   <li>Exploratory Data Analysis (EDA)</li>
   <li>SQL Queries & Data Extraction</li>
   <li>Dashboard Design & KPI Tracking</li>
-  <li>Business & Performance Analysis</li>
   <li>Statistical Analysis</li>
 </ul>
 
@@ -56,7 +55,7 @@
   <b>Languages:</b> SQL, Python<br/>
   <b>Visualization:</b> Power BI, Excel (Advanced)<br/>
   <b>Libraries:</b> Pandas, NumPy, Matplotlib, Seaborn<br/>
-  <b>Databases:</b> MySQL, PostgreSQL<br/>
+  <b>Databases:</b> MySQL<br/>
   <b>Version Control:</b> Git, GitHub
 </p>
 
@@ -68,10 +67,8 @@
 <h3>🎬 Netflix Data Analysis Dashboard</h3>
 <ul>
   <li>Performed exploratory data analysis on Netflix content dataset</li>
-  <li>Identified genre distribution, release trends, and regional patterns</li>
-  <li>Built an interactive Power BI dashboard for insight visualization</li>
 </ul>
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/netflix_dashboard.png"
+<img src="https://raw.githubusercontent.com/sannidhishetty871/sannidhishetty871/main/netflix_dashboard.png"
      width="100%" />
 
 <hr/>
@@ -82,7 +79,7 @@
   <li>Built predictive insights to support inventory planning</li>
   <li>Improved sales trend visibility through analytical reporting</li>
 </ul>
-<img src="https://raw.githubusercontent.com/yourusername/yourusername/main/retail_dashboard.png"
+<img src="https://raw.githubusercontent.com/sannidhishetty345/sannidhishetty345/main/retail_dashboard.png"
      width="100%" />
 
 <hr/>
@@ -100,9 +97,9 @@
 <h2>📈 GitHub Contribution Overview</h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=tokyonight" />
   <br/><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sannidhishetty345&theme=tokyonight" />
 </div>
 
 <hr/>
@@ -121,9 +118,9 @@
 <h2>📬 Connect With Me</h2>
 
 <p>
-  📧 Email: <b>your_email@gmail.com</b><br/>
-  💼 LinkedIn: <b>linkedin.com/in/yourprofile</b><br/>
-  💻 GitHub: <b>github.com/yourusername</b>
+  📧 Email: <b>sannidhishetty871@gmail.com</b><br/>
+  💼 LinkedIn: <b>linkedin.com/in/sannidhishetty2206</b><br/>
+  💻 GitHub: <b>github.com/sannidhishetty345</b>
 </p>
 
 <hr/>
