@@ -125,18 +125,7 @@
 </ul>
 
 <hr/>
-<!-- ================= LEARNING ================= -->
-<h2 align="center">🎯 Currently Focused On</h2>
 
-<div align="center">
-
-🔹 Advanced SQL (CTEs, Window Functions)  
-🔹 DAX & advanced Power BI dashboards  
-🔹 Real-world business analytics case studies  
-
-</div>
-
-<hr/>
 
 <!-- ================= CONTACT ================= -->
 <div class="connect-with-me">
