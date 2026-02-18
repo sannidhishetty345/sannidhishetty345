@@ -113,10 +113,10 @@
 <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=tokyonight" />
 
-</p>
+
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=sannidhishetty345&theme=tokyonight)
-
+</p>
 <!-- ================= LEARNING ================= -->
 <h2>🎯 Currently Focused On</h2>
 <ul>
