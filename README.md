@@ -146,13 +146,10 @@
 <!-- ================= CONTACT ================= -->
 <div class="connect-with-me">
   <h2>📬 Connect With Me</h2>
-
-  <p>
-     <img width="25"  alt="image" src="https://github.com/user-attachments/assets/f5833ba5-3f71-4b86-a44d-11a3df9682f2" />Email:
-    <a href="mailto:sannidhishetty871@gmail.com">
-      sannidhishetty871@gmail.com
-    </a>
-  </p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" style="vertical-align:middle;"> 
+  <a href="mailto:sannidhishetty871@gmail.com">Email</a>
+</p>
 
   <p>
   <img width="25" alt="image" src="https://github.com/user-attachments/assets/b41a13ca-e4a5-4c3d-84bf-2182eb753a9b" />LinkedIn:
