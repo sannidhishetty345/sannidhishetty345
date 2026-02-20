@@ -166,13 +166,14 @@
 </p>
 
 <p>
-  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
        width="20"
-       style="vertical-align: middle; margin-right: 8px; filter: invert(1);">
+       style="vertical-align: middle; margin-right: 8px;">
   <a href="https://github.com/sannidhishetty345">
     github.com/sannidhishetty345
   </a>
 </p>
+
 
 <div align="center">
   <b>“Data is valuable only when transformed into insight.”</b>
