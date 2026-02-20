@@ -156,7 +156,8 @@ Email:
   </p>
 
   <p>
-   <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/59b7dd7e-e16d-42f8-b41d-26e167909fb1" />
+  <img width="25" alt="image" src="https://github.com/user-attachments/assets/b41a13ca-e4a5-4c3d-84bf-2182eb753a9b" />
+
  LinkedIn:
     <a href="https://www.linkedin.com/in/sannidhishetty2206" target="_blank" rel="noopener noreferrer">
       linkedin.com/in/sannidhishetty2206
