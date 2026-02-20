@@ -105,16 +105,32 @@
 
 
 <!-- ================= GITHUB STATS ================= -->
-<h2 align="center">📈 GitHub Activity</h2>
-
-<div align="center">
-  <img height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=tokyonight" />
-</p>
 <p align="center">
-  <img height="170"
-    src="https://streak-stats.demolab.com?user=sannidhishetty345&theme=tokyonight&hide_border=true" />
-</div>
+  <h2>📊 GitHub Stats</h2>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=sannidhishetty345&show_icons=true&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=sannidhishetty345&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+
+<p align="center">
+  <h2>🔥 Contribution Streak</h2>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=sannidhishetty345&theme=radical&hide_border=true" />
+</p>
+
+<h2 align="center">📈 Contribution Graph</h2>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sannidhishetty345&theme=react-dark&hide_border=true" />
+</p>
 
 <!-- ================= LEARNING ================= -->
 <h2>🎯 Currently Focused On</h2>
