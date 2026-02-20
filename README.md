@@ -148,7 +148,7 @@
   <h2>📬 Connect With Me</h2>
 
   <p>
-     <img width="35"  alt="image" src="https://github.com/user-attachments/assets/f5833ba5-3f71-4b86-a44d-11a3df9682f2" />
+     <img width="30"  alt="image" src="https://github.com/user-attachments/assets/f5833ba5-3f71-4b86-a44d-11a3df9682f2" />
 Email:
     <a href="mailto:sannidhishetty871@gmail.com">
       sannidhishetty871@gmail.com
