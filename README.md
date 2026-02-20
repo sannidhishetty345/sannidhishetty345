@@ -147,19 +147,20 @@
 <div class="connect-with-me">
   <h2>📬 Connect With Me</h2>
 
+
 <p>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
+  <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg"
        width="20"
-       style="vertical-align: middle; margin-right: 8px;" />
+       style="vertical-align: middle; margin-right: 8px;">
   <a href="mailto:sannidhishetty871@gmail.com">
     sannidhishetty871@gmail.com
   </a>
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
-       width="20" 
-       style="vertical-align: middle; margin-right: 8px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+       width="20"
+       style="vertical-align: middle; margin-right: 8px;">
   <a href="https://linkedin.com/in/sannidhishetty2206">
     linkedin.com/in/sannidhishetty2206
   </a>
@@ -168,7 +169,7 @@
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
        width="20"
-       style="vertical-align: middle; margin-right: 8px;">
+       style="vertical-align: middle; margin-right: 8px; filter: invert(1);">
   <a href="https://github.com/sannidhishetty345">
     github.com/sannidhishetty345
   </a>
