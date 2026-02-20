@@ -149,6 +149,7 @@
 
   <p>
     📧 Email:
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" />
     <a href="mailto:sannidhishetty871@gmail.com">
       sannidhishetty871@gmail.com
     </a>
