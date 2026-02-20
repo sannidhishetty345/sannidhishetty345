@@ -148,8 +148,8 @@
   <h2>📬 Connect With Me</h2>
 
   <p>
-    📧 Email:
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="55" />
+     <img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/f5833ba5-3f71-4b86-a44d-11a3df9682f2" />
+Email:
     <a href="mailto:sannidhishetty871@gmail.com">
       sannidhishetty871@gmail.com
     </a>
