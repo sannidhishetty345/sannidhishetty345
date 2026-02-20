@@ -166,18 +166,9 @@
 </p>
 
 <p>
-  <picture>
-    <!-- Dark mode -->
-    <source media="(prefers-color-scheme: dark)" 
-            srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
-    <!-- Light mode -->
-    <source media="(prefers-color-scheme: light)" 
-            srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-    <!-- Fallback -->
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
-         width="20"
-         style="vertical-align: middle; margin-right: 8px;">
-  </picture>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"
+       width="20"
+       style="vertical-align: middle; margin-right: 8px; filter: invert(1);">
   <a href="https://github.com/sannidhishetty345">
     github.com/sannidhishetty345
   </a>
