@@ -146,26 +146,33 @@
 <!-- ================= CONTACT ================= -->
 <div class="connect-with-me">
   <h2>📬 Connect With Me</h2>
+
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="20" style="vertical-align:middle;"> 
-  <a href="mailto:sannidhishetty871@gmail.com">Email</a>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png"
+       width="20"
+       style="vertical-align: middle; margin-right: 8px;" />
+  <a href="mailto:sannidhishetty871@gmail.com">
+    sannidhishetty871@gmail.com
+  </a>
 </p>
 
-  <p>
-  <img width="25" alt="image" src="https://github.com/user-attachments/assets/b41a13ca-e4a5-4c3d-84bf-2182eb753a9b" />LinkedIn:
-    <a href="https://www.linkedin.com/in/sannidhishetty2206" target="_blank" rel="noopener noreferrer">
-      linkedin.com/in/sannidhishetty2206
-    </a>
-  </p>
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+       width="20" 
+       style="vertical-align: middle; margin-right: 8px;" />
+  <a href="https://linkedin.com/in/sannidhishetty2206">
+    linkedin.com/in/sannidhishetty2206
+  </a>
+</p>
 
-  <p>
-    💻 GitHub:
-    <a href="https://github.com/sannidhishetty345" target="_blank" rel="noopener noreferrer">
-      github.com/sannidhishetty345
-    </a>
-  </p>
-</div>
-
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+       width="20" 
+       style="vertical-align: middle; margin-right: 8px;" />
+  <a href="https://github.com/sannidhishetty345">
+    github.com/sannidhishetty345
+  </a>
+</p>
 <hr/>
 
 <div align="center">
