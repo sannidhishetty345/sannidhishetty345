@@ -166,14 +166,22 @@
 </p>
 
 <p>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-       width="20" 
-       style="vertical-align: middle; margin-right: 8px;" />
+  <picture>
+    <!-- Dark mode -->
+    <source media="(prefers-color-scheme: dark)" 
+            srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg">
+    <!-- Light mode -->
+    <source media="(prefers-color-scheme: light)" 
+            srcset="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+    <!-- Fallback -->
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg"
+         width="20"
+         style="vertical-align: middle; margin-right: 8px;">
+  </picture>
   <a href="https://github.com/sannidhishetty345">
     github.com/sannidhishetty345
   </a>
 </p>
-<hr/>
 
 <div align="center">
   <b>“Data is valuable only when transformed into insight.”</b>
