@@ -4,7 +4,7 @@
        alt="Data Analytics Banner" width="100%" />
 
   <h1>Sannidhi Shetty</h1>
-  <h3>Data Analyst | SQL • Python • Business Intelligence</h3>
+  <h3> Aspiring Data Analyst | SQL • Python • Business Intelligence</h3>
   <p><em>Turning data into actionable business insights</em></p>
 </div>
 
