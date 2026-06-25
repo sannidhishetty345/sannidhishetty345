@@ -5,7 +5,7 @@
 
   <h1>Sannidhi Shetty</h1>
   <h3> Aspiring Data Analyst | SQL • Python • Data Visualization </h3>
-  <p><em>Turning data into actionable business insights</em></p>
+  <p><em>Turning data into actionable insights</em></p>
 </div>
 
 <!-- ================= ABOUT ME ================= -->
